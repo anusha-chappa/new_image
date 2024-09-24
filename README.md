@@ -115,5 +115,5 @@ Finally displayed the edited or filtered image using:
 
 
 #### output
- To run the code enter **streamlit run image_editor.py** in the terminal
+ To run the code enter **streamlit run new_image.py** in the terminal
  this will display the web app on your screen 
