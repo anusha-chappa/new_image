@@ -1,3 +1,4 @@
+
 # image_editor
 This is my first Git Repository
 <br>
@@ -116,7 +117,3 @@ Finally displayed the edited or filtered image using:
 #### output
  To run the code enter **streamlit run image_editor.py** in the terminal
  this will display the web app on your screen 
-
-
-
-
